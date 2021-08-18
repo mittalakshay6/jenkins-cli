@@ -1,10 +1,10 @@
 {
   "name": "jenkins-ci-cli",
   "description": "Interactive Jenkins command line interface",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Akshay Mittal",
   "bin": {
-    "jenkins": "./bin/run"
+    "jenkins-ci-cli": "./bin/run"
   },
   "bugs": "https://github.com/mittalakshay6/jenkins-cli/issues",
   "devDependencies": {

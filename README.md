@@ -15,11 +15,11 @@ Interactive Jenkins command line interface
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g jenkins-cli
+$ npm install -g jenkins-ci-cli
 $ jenkins COMMAND
 running command...
 $ jenkins (-v|--version|version)
-jenkins-cli/2.0.0 darwin-x64 node-v14.17.5
+jenkins-ci-cli/2.0.0 darwin-x64 node-v14.17.5
 $ jenkins --help [COMMAND]
 USAGE
   $ jenkins COMMAND
