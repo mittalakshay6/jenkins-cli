@@ -68,8 +68,8 @@ export default class Run extends Command {
     let build_number: number | undefined;
     jenkins_helper
       .get_build_num_from_queue_item_number(queue_item_number, 5000, 60)
-      .then((build_number) => {
-        build_number = build_number;
+      .then((build_num) => {
+        build_number = build_num as number;
       })
       .catch((err) => {
         throw new Error(`Build did not start: ${err}`);
