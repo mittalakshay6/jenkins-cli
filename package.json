@@ -1,7 +1,7 @@
 {
   "name": "jenkins-cli",
   "description": "Interactive Jenkins command line interface",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Akshay Mittal",
   "bin": {
     "jenkins": "./bin/run"
