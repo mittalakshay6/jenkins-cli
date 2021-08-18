@@ -19,7 +19,7 @@ $ npm install -g jenkins-ci-cli
 $ jenkins COMMAND
 running command...
 $ jenkins (-v|--version|version)
-jenkins-ci-cli/2.0.1 darwin-x64 node-v14.17.5
+jenkins-ci-cli/2.0.2 darwin-x64 node-v14.17.5
 $ jenkins --help [COMMAND]
 USAGE
   $ jenkins COMMAND
@@ -43,7 +43,7 @@ USAGE
   $ jenkins config
 ```
 
-_See code: [src/commands/config.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.1/src/commands/config.ts)_
+_See code: [src/commands/config.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.2/src/commands/config.ts)_
 
 ## `jenkins help [COMMAND]`
 
@@ -71,7 +71,7 @@ USAGE
   $ jenkins logs
 ```
 
-_See code: [src/commands/logs.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.1/src/commands/logs.ts)_
+_See code: [src/commands/logs.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.2/src/commands/logs.ts)_
 
 ## `jenkins run`
 
@@ -82,7 +82,7 @@ USAGE
   $ jenkins run
 ```
 
-_See code: [src/commands/run.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.1/src/commands/run.ts)_
+_See code: [src/commands/run.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.2/src/commands/run.ts)_
 
 ## `jenkins stop`
 
@@ -93,5 +93,5 @@ USAGE
   $ jenkins stop
 ```
 
-_See code: [src/commands/stop.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.1/src/commands/stop.ts)_
+_See code: [src/commands/stop.ts](https://github.com/mittalakshay6/jenkins-cli/blob/v2.0.2/src/commands/stop.ts)_
 <!-- commandsstop -->
