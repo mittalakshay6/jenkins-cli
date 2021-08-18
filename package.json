@@ -1,5 +1,5 @@
 {
-  "name": "jenkins-cli",
+  "name": "jenkins-ci-cli",
   "description": "Interactive Jenkins command line interface",
   "version": "2.0.0",
   "author": "Akshay Mittal",
